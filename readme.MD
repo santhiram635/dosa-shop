@@ -8,3 +8,9 @@
 * Dosa batter
 * Karam
 * oil
+
+# Mashroom-dosa
+* Dosa batter
+* mashroom masala
+* butter
+* oil
